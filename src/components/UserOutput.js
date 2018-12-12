@@ -2,7 +2,7 @@ import React from 'react'
 
 const UserOutput = (props) => {
     const style = {
-      border: '1px solid green',
+      border: '2px solid blue',
       backgroundColor: 'black',
       color: 'white',
       width: '160px',
